@@ -1,4 +1,4 @@
-**SOC Analyst Journey**
+# SOC Analyst Journey
 
 **About Me**
 Aspiring SOC Analyst transitioning into cybersecurity.
