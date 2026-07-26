@@ -2,7 +2,7 @@
 
 **About Me**
 Aspiring SOC Analyst transitioning into cybersecurity.
-Currently following a structured 4-month learning plan — zero background, all free resources.
+Currently following a structured 4-month learning plan with zero background, all free resources.
 
 **What I'm Learning**
 - Networking fundamentals (TCP/IP, DNS, HTTP)
